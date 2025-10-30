@@ -5,7 +5,7 @@
 - <b>Fintech Project</b>
   - [Payment Application with Stripe API](https://github.com/mofiyinfoluwaadebayo18-commits/PaymentApplication)
 - <b>Quoting Application for SMEs using + Quiz Game in Python</b>
-  - [Quota](https://github.com/mofiyinfoluwaadebayo18-commits/PythonProjects) 
+  - [Quota + Barzz](https://github.com/mofiyinfoluwaadebayo18-commits/PythonProjects) 
 - <b>Mesozoic Zoo Application with Java- A Learning Project</b>
   - [Mesozoic Zoo](https://github.com/joshmadakor1/Sentinel-Lab)
  
