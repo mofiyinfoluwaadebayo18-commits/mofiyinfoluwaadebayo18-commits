@@ -7,6 +7,6 @@
 - <b>Quoting Application for SMEs using + Quiz Game in Python</b>
   - [Quota + Barzz](https://github.com/mofiyinfoluwaadebayo18-commits/PythonProjects) 
 - <b>Mesozoic Zoo Application with Java- A Learning Project</b>
-  - [Mesozoic Zoo](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Mesozoic Zoo]
  
 
